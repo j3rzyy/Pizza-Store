@@ -1,3 +1,7 @@
+# React application - Pizza Store
+
+__Take a look at [Demo](https://stackblitz.com/~/github.com/j3rzyy/Pizza-Store)__
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
